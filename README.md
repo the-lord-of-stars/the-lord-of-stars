@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm the-lord-of-stars</h1>
-<h3 align="center">A student majoring in artificial intelligence</h3>
+<h3 align="center">A student majoring in Artificial Intelligence</h3>
 
 - 🔭 I’m currently studying in **University of Nottingham**
 
