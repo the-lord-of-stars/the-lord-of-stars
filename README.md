@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying at the **University of Nottingham**
 
-- 📝 I sometimes write articles on [https://the-lord-of-stars.github.io/](https://the-lord-of-stars.github.io/) or [https://qstarp.vercel.app/](https://qstarp.vercel.app/) (unfinished)
+- 📝 I sometimes write articles on [https://the-lord-of-stars.github.io/](https://the-lord-of-stars.github.io/) or [https://zefei.site/](https://zefei.site/) (unfinished)
 
 - 📫 How to reach me **scyzx4@nottingham.ac.uk**
 
