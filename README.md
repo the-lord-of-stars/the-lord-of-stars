@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying at the **University of Nottingham**
 
-- 📝 I sometimes write articles on [https://zefei.site/](https://zefei.site/) (unfinished)
+- 📝 I sometimes write articles on [https://zefei.site/](https://zefei.site/)
 
 - 📫 How to reach me **scyzx4@nottingham.ac.uk**
 
