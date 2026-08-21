@@ -1,42 +1,69 @@
-<h1 align="center">Hi 👋, I'm qSTARp</h1>
-<h3 align="center">A student majoring in Artificial Intelligence</h3>
-
-- 🔭 I’m currently studying at the **University of Nottingham**
-
-- 📝 I sometimes write articles on [https://zefei.site/](https://zefei.site/)
-
-- 📫 How to reach me **scyzx4@nottingham.ac.uk**
-
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=the-lord-of-stars&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&ring=7EDDCF&fire=7EDDCF" />
+
+# Hi 👋, I'm qSTARp
+
+### AI Engineer | NLP & LLMs | AI Agents & Human-AI Interaction
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=NLP+%7C+LLMs+%7C+AI+Agents;Machine+Learning+%7C+Deep+Learning+%7C+RAG;Human-AI+Interaction+%7C+AI+Systems;Building+intelligent+and+practical+AI+systems)
+
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+## About Me
+
+- 🎓 Master's student in **Intelligent Information Systems (MIIS)** at **Carnegie Mellon University**
+- 🔬 Interested in **NLP, LLMs, AI Agents, AI Systems, and Human-AI Interaction**
+- 🧠 Exploring how to build **reliable, interpretable, and practical AI systems**
+- 📚 Previously studied **Computer Science with Artificial Intelligence** at the **University of Nottingham**
+- ✍️ I sometimes write about AI, research, and software engineering on **[zefei.site](https://zefei.site/)**
+- 📫 Contact me at **[your email here]**
+
+---
+
+## Languages and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,pytorch,tensorflow,sklearn,react,nextjs,docker,azure,linux,git,github,vscode" />
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=the-lord-of-stars&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-lord-of-stars&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5" />
+</p>
+
+---
+
+## Publications
+
+### 🔍 AwesomeLit: Transparent Human-AI Collaboration for Literature Exploration
+
+**EuroVis 2026**
+
+A human-AI collaborative literature exploration system combining **LLMs, retrieval-augmented generation, semantic visualization, and interactive exploration** to make AI-assisted research more transparent and controllable.
+
+<p>
+  <a href="YOUR_PAPER_LINK">
+    <img src="https://img.shields.io/badge/Paper-EuroVis%202026-blue?style=for-the-badge" />
+  </a>
+  <a href="YOUR_PROJECT_OR_CODE_LINK">
+    <img src="https://img.shields.io/badge/Project-GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+## Contribution Activity
 
 <div align="center">
-<table>
-  <tr>
-    <td><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></td>
-    <td><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></td>
-  </tr>
-</table>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=the-lord-of-stars&hide_border=true&theme=tokyonight" />
 </div>
+
+<br>
 
 <picture>
   <source
@@ -50,4 +77,8 @@
   <img alt="Breakout Game" src="images/breakout-light.svg" />
 </picture>
 
+<div align="center">
+
 ![](https://komarev.com/ghpvc/?username=the-lord-of-stars&color=brightgreen)
+
+</div>
