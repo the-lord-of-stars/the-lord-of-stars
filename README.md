@@ -17,7 +17,7 @@
 - 🧠 Exploring how to build **reliable, interpretable, and practical AI systems**
 - 📚 Previously studied **Computer Science with Artificial Intelligence** at the **University of Nottingham**
 - ✍️ I sometimes write about AI, research, and software engineering on **[zefei.site](https://zefei.site/)**
-- 📫 Contact me at **[your email here]**
+- 📫 Contact me at **[zefei0521@gmail.com]**
 
 ---
 
@@ -42,7 +42,7 @@
 
 ### 🔍 AwesomeLit: Transparent Human-AI Collaboration for Literature Exploration
 
-**EuroVis 2026**
+**EuroVis 2026 short paper**
 
 A human-AI collaborative literature exploration system combining **LLMs, retrieval-augmented generation, semantic visualization, and interactive exploration** to make AI-assisted research more transparent and controllable.
 
