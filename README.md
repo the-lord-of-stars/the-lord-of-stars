@@ -24,7 +24,7 @@
 ## Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,pytorch,tensorflow,sklearn,react,nextjs,docker,azure,linux,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,haskell,c,java,pytorch,sklearn,react,nextjs,docker,azure,linux,git,github,vscode" />
 </p>
 
 ---
