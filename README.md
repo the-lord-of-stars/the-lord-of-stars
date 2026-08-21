@@ -35,6 +35,8 @@
 
 **EuroVis 2026 Short Paper**
 
+**Zefei Xie**, Yuhan Guo, Kai Xu
+
 A human-AI collaborative literature exploration system combining **LLMs, retrieval-augmented generation, semantic visualization, and interactive exploration** to make AI-assisted research more transparent and controllable.
 
 <p>
@@ -51,6 +53,8 @@ A human-AI collaborative literature exploration system combining **LLMs, retriev
 ### 🤖 What Happened to Automated Visualization? An Agentic Analysis
 
 **1st Workshop on GenAI, Agents, and the Future of VIS · 2025**
+
+Weiyao Meng, Yuhan Guo, **Zefei Xie**, Kai Xu
 
 An automated visualization pipeline powered by **LLM-based agents**, exploring how agentic workflows can automate **data analysis, visualization generation, and report creation**.
 
