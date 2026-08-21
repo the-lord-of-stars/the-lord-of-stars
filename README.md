@@ -38,7 +38,7 @@
 A human-AI collaborative literature exploration system combining **LLMs, retrieval-augmented generation, semantic visualization, and interactive exploration** to make AI-assisted research more transparent and controllable.
 
 <p>
-  <a href="YOUR_PAPER_LINK">
+  <a href="https://arxiv.org/abs/2603.22648">
     <img src="https://img.shields.io/badge/Paper-EuroVis%202026-blue?style=for-the-badge" />
   </a>
   <a href="YOUR_PROJECT_OR_CODE_LINK">
