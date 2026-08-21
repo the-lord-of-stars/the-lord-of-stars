@@ -31,9 +31,11 @@
 
 ## Publications
 
+## Publications
+
 ### 🔍 AwesomeLit: Transparent Human-AI Collaboration for Literature Exploration
 
-**EuroVis 2026 short paper**
+**EuroVis 2026 Short Paper**
 
 A human-AI collaborative literature exploration system combining **LLMs, retrieval-augmented generation, semantic visualization, and interactive exploration** to make AI-assisted research more transparent and controllable.
 
@@ -41,8 +43,25 @@ A human-AI collaborative literature exploration system combining **LLMs, retriev
   <a href="https://arxiv.org/abs/2603.22648">
     <img src="https://img.shields.io/badge/Paper-EuroVis%202026-blue?style=for-the-badge" />
   </a>
-  <a href="YOUR_PROJECT_OR_CODE_LINK">
+  <a href="https://github.com/the-lord-of-stars/AwesomeLit">
     <img src="https://img.shields.io/badge/Project-GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+### 🤖 What Happened to Automated Visualization? An Agentic Analysis
+
+**1st Workshop on GenAI, Agents, and the Future of VIS · 2025**
+
+An automated visualization pipeline powered by **LLM-based agents**, exploring how agentic workflows can automate **data analysis, visualization generation, and report creation**.
+
+<p>
+  <a href="https://www.yuhanguo.me/files/agenticvis_paper.pdf">
+    <img src="https://img.shields.io/badge/Paper-PDF-blue?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Vis4Sense/agentic-vis-2025">
+    <img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
