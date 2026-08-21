@@ -29,15 +29,6 @@
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=the-lord-of-stars&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-lord-of-stars&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5" />
-</p>
-
----
-
 ## Publications
 
 ### 🔍 AwesomeLit: Transparent Human-AI Collaboration for Literature Exploration
@@ -58,26 +49,6 @@ A human-AI collaborative literature exploration system combining **LLMs, retriev
 ---
 
 ## Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=the-lord-of-stars&hide_border=true&theme=tokyonight" />
-</div>
-
-<br>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="images/breakout-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="images/breakout-light.svg"
-  />
-  <img alt="Breakout Game" src="images/breakout-light.svg" />
-</picture>
-
-<div align="center">
 
 ![](https://komarev.com/ghpvc/?username=the-lord-of-stars&color=brightgreen)
 
