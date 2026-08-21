@@ -31,8 +31,6 @@
 
 ## Publications
 
-## Publications
-
 ### 🔍 AwesomeLit: Transparent Human-AI Collaboration for Literature Exploration
 
 **EuroVis 2026 Short Paper**
