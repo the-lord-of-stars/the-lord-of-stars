@@ -16,7 +16,7 @@
 - 🔬 Interested in **NLP, LLMs, AI Agents, AI Systems, and Human-AI Interaction**
 - 🧠 Exploring how to build **reliable, interpretable, and practical AI systems**
 - 📚 Previously studied **Computer Science with Artificial Intelligence** at the **University of Nottingham**
-- ✍️ I sometimes write about AI, research, and software engineering on **[zefei.site](https://zefei.site/)**
+- ✍️ I sometimes write about AI, research, and software engineering on **[zefei.site](https://zefei.site/)** and my academic website [https://the-lord-of-stars.github.io/](https://the-lord-of-stars.github.io/)
 - 📫 Contact me at **[zefei0521@gmail.com]**
 
 ---
